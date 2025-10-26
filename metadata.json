@@ -1,0 +1,5 @@
+{
+  "name": "AI Portfolio & Resume Generator",
+  "description": "An application that generates a beautiful portfolio website preview and LaTeX resume code for users based on their personal and professional information, powered by AI.",
+  "requestFramePermissions": []
+}
